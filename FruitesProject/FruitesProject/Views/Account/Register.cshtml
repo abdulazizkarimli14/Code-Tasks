@@ -1,0 +1,69 @@
+﻿@model FruitesProject.ViewModels.AccountViewModels.RegisterVM
+
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Register</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+        <li class="breadcrumb-item active text-white">Register</li>
+    </ol>
+</div>
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="bg-light rounded p-5">
+                    <h4 class="mb-4">Yeni hesab yaradın</h4>
+
+                    <form asp-action="Register" method="post">
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="FullName" class="form-label">Tam adınız</label>
+                            <input asp-for="FullName" class="form-control border-0 py-3" placeholder="Tam adınızı daxil edin" />
+                            <span asp-validation-for="FullName" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Email" class="form-label">Email ünvanı</label>
+                            <input asp-for="Email" class="form-control border-0 py-3" placeholder="Email ünvanınızı daxil edin" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Password" class="form-label">Şifrə</label>
+                            <input asp-for="Password" class="form-control border-0 py-3" placeholder="Şifrənizi daxil edin" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                            <small class="form-text text-muted">
+                                Şifrə ən azı 6 simvol olmalıdır və böyük hərf, kiçik hərf və rəqəm olmalıdır.
+                            </small>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="ConfirmPassword" class="form-label">Şifrəni təsdiqlə</label>
+                            <input asp-for="ConfirmPassword" class="form-control border-0 py-3" placeholder="Şifrənizi yenidən daxil edin" />
+                            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">
+                            Qeydiyyatdan keç
+                        </button>
+                    </form>
+
+                    <div class="text-center mt-4">
+                        <p>Artıq hesabınız var? <a asp-action="Login" class="text-primary">Daxil ol</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

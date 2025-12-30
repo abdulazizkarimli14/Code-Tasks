@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\viewmodels\\accountviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\viewmodels\\accountviewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\viewmodels\\accountviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\viewmodels\\accountviewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Migrations\\20251230070712_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FruitesProject\\Migrations\\20251230070712_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\shop\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\shop\\shopdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\home\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\home\\testimonial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|c:\\users\\immmd\\onedrive\\desktop\\codetasks\\fruitesproject\\fruitesproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68170B76-F390-46DC-BF59-E1B4AD24B434}|FruitesProject\\FruitesProject.csproj|solutionrelative:fruitesproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T07:23:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T07:16:56.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T07:15:05.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\ViewModels\\AccountViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\ViewModels\\AccountViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\ViewModels\\AccountViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "FruitesProject\\ViewModels\\AccountViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wBkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:13:38.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\ViewModels\\AccountViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\ViewModels\\AccountViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\ViewModels\\AccountViewModels\\LoginVM.cs",
+              "RelativeToolTip": "FruitesProject\\ViewModels\\AccountViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwBEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:13:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FruitesProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA0wEIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:10:42.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:28:51.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251230070712_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Migrations\\20251230070712_Initial.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Migrations\\20251230070712_Initial.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Migrations\\20251230070712_Initial.cs",
+              "RelativeToolTip": "FruitesProject\\Migrations\\20251230070712_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:07:12.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Program.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Program.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Program.cs",
+              "RelativeToolTip": "FruitesProject\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:00:46.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "FruitesProject\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:57:39.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FruitesProject\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:57:01.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FruitesProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\appsettings.json",
+              "RelativeToolTip": "FruitesProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T06:49:58.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FruitesProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FruitesProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T06:42:42.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAJkBAAAAAAAAAAAowKsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:35:48.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAHABAAAAAAAAAAAowIIBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:35:39.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ShopDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shop\\ShopDetail.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Shop\\ShopDetail.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shop\\ShopDetail.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Shop\\ShopDetail.cshtml",
+              "ViewState": "AgIAAMECAAAAAAAAAAAowNMCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:34:20.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAKgBAAAAAAAAAAAowL0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:31:21.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:29:21.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAACACAAAAAAAAAAAowDICAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:33:47.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Testimonial.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Testimonial.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Home\\Testimonial.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Testimonial.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Home\\Testimonial.cshtml",
+              "ViewState": "AgIAACkBAAAAAAAAAAAowDsBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:32:52.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAowBcBAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:32:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:31:36.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FruitesProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FruitesProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T06:29:08.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

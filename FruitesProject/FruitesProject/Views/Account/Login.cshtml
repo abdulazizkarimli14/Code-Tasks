@@ -1,0 +1,65 @@
+﻿@model FruitesProject.ViewModels.AccountViewModels.LoginVM
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+<div class="container-fluid page-header py-5">
+    <h1 class="text-center text-white display-6">Login</h1>
+    <ol class="breadcrumb justify-content-center mb-0">
+        <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Index">Home</a></li>
+        <li class="breadcrumb-item active text-white">Login</li>
+    </ol>
+</div>
+
+<div class="container-fluid py-5">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-lg-6">
+                <div class="bg-light rounded p-5">
+                    <h4 class="mb-4">Hesabınıza daxil olun</h4>
+
+                    <form asp-action="Login" method="post">
+                        <input type="hidden" asp-for="@ViewData["ReturnUrl"]" />
+
+                        <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Email" class="form-label">Email ünvanı</label>
+                            <input asp-for="Email" class="form-control border-0 py-3" placeholder="Email ünvanınızı daxil edin" />
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-group mb-4">
+                            <label asp-for="Password" class="form-label">Şifrə</label>
+                            <input asp-for="Password" class="form-control border-0 py-3" placeholder="Şifrənizi daxil edin" />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-check mb-4">
+                            <input asp-for="RememberMe" class="form-check-input" type="checkbox" />
+                            <label asp-for="RememberMe" class="form-check-label">
+                                Məni xatırla
+                            </label>
+                        </div>
+
+                        <button type="submit" class="btn border-secondary py-3 px-4 text-uppercase w-100 text-primary">
+                            Daxil ol
+                        </button>
+                    </form>
+
+                    <div class="text-center mt-4">
+                        <p>Hesabınız yoxdur? <a asp-action="Register" class="text-primary">Qeydiyyatdan keç</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+
