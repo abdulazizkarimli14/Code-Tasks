@@ -142,8 +142,7 @@
               "RelativeToolTip": "FruitesProject\\Data\\Configurations\\CategoryConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:29:58.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:29:58.918Z"
             },
             {
               "$type": "Document",
@@ -155,8 +154,7 @@
               "RelativeToolTip": "FruitesProject\\Data\\Configurations\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:29:05.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:29:05.251Z"
             },
             {
               "$type": "Document",
@@ -166,7 +164,7 @@
               "RelativeDocumentMoniker": "FruitesProject\\Controllers\\ShopController.cs",
               "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Controllers\\ShopController.cs",
               "RelativeToolTip": "FruitesProject\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T05:55:41.443Z",
               "EditorCaption": ""
@@ -179,7 +177,7 @@
               "RelativeDocumentMoniker": "FruitesProject\\Views\\Shop\\Index.cshtml",
               "ToolTip": "C:\\Users\\immmd\\OneDrive\\Desktop\\CodeTasks\\FruitesProject\\FruitesProject\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "FruitesProject\\Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAmwGAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwI8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-30T06:33:47.877Z",
               "EditorCaption": ""
@@ -194,8 +192,7 @@
               "RelativeToolTip": "FruitesProject\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:24:47.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:24:47.905Z"
             },
             {
               "$type": "Document",
@@ -207,8 +204,7 @@
               "RelativeToolTip": "FruitesProject\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T06:25:12.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T06:25:12.578Z"
             },
             {
               "$type": "Document",
@@ -232,8 +228,7 @@
               "RelativeToolTip": "FruitesProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-30T06:49:58.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:49:58.184Z"
             },
             {
               "$type": "Document",
@@ -245,8 +240,7 @@
               "RelativeToolTip": "FruitesProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T07:00:46.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T07:00:46.979Z"
             },
             {
               "$type": "Document",
@@ -258,8 +252,7 @@
               "RelativeToolTip": "FruitesProject\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-30T06:57:01.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:57:01.11Z"
             },
             {
               "$type": "Document",
@@ -271,8 +264,7 @@
               "RelativeToolTip": "FruitesProject\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-18T05:45:36.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-18T05:45:36.962Z"
             },
             {
               "$type": "Document",
@@ -284,8 +276,7 @@
               "RelativeToolTip": "FruitesProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T06:29:08.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:29:08.418Z"
             },
             {
               "$type": "Document",
@@ -297,8 +288,7 @@
               "RelativeToolTip": "FruitesProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T06:28:51.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:28:51.776Z"
             },
             {
               "$type": "Document",
@@ -310,8 +300,7 @@
               "RelativeToolTip": "FruitesProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-30T06:29:21.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-30T06:29:21.077Z"
             },
             {
               "$type": "Document",

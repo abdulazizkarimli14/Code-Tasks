@@ -32,9 +32,23 @@
                 <div class="mb-4">
                     <form method="get">
                         <h4>Price</h4>
-                        <input type="number" name="minPrice" class="form-control mb-2" placeholder="Min price">
-                        <input type="number" name="maxPrice" class="form-control mb-3" placeholder="Max price">
-                        <button type="submit" class="btn btn-primary w-100">Filter</button>
+
+                        <input type="number"
+                               name="minPrice"
+                               value="@ViewBag.MinPrice"
+                               class="form-control mb-2"
+                               placeholder="Min price">
+
+                        <input type="number"
+                               name="maxPrice"
+                               value="@ViewBag.MaxPrice"
+                               class="form-control mb-3"
+                               placeholder="Max price">
+
+                        <button type="submit"
+                                class="btn btn-primary w-100">
+                            Filter
+                        </button>
                     </form>
                 </div>
             </div>
@@ -82,14 +96,46 @@
 
                 </div>
 
-                <!-- Pagination (hələ statik) -->
-                <div class="pagination d-flex justify-content-center mt-5">
-                    <a href="#" class="rounded">&laquo;</a>
-                    <a href="#" class="active rounded">1</a>
-                    <a href="#" class="rounded">2</a>
-                    <a href="#" class="rounded">3</a>
-                    <a href="#" class="rounded">&raquo;</a>
-                </div>
+                <!-- REAL PAGINATION -->
+                @if (ViewBag.TotalPages > 1)
+                {
+                    <div class="pagination d-flex justify-content-center mt-5">
+
+                        @if (ViewBag.CurrentPage > 1)
+                        {
+                            <a class="rounded"
+                               asp-action="Index"
+                               asp-route-page="@(ViewBag.CurrentPage - 1)"
+                               asp-route-minPrice="@ViewBag.MinPrice"
+                               asp-route-maxPrice="@ViewBag.MaxPrice">
+                                &laquo;
+                            </a>
+                        }
+
+                        @for (int i = 1; i <= ViewBag.TotalPages; i++)
+                        {
+                            <a class="rounded @(i == ViewBag.CurrentPage ? "active" : "")"
+                               asp-action="Index"
+                               asp-route-page="@i"
+                               asp-route-minPrice="@ViewBag.MinPrice"
+                               asp-route-maxPrice="@ViewBag.MaxPrice">
+                                @i
+                            </a>
+                        }
+
+                        @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                        {
+                            <a class="rounded"
+                               asp-action="Index"
+                               asp-route-page="@(ViewBag.CurrentPage + 1)"
+                               asp-route-minPrice="@ViewBag.MinPrice"
+                               asp-route-maxPrice="@ViewBag.MaxPrice">
+                                &raquo;
+                            </a>
+                        }
+
+                    </div>
+                }
             </div>
         </div>
     </div>
