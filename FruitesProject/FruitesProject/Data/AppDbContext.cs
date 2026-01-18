@@ -9,7 +9,8 @@ public class AppDbContext:IdentityDbContext<AppUser>
     public AppDbContext(DbContextOptions<AppDbContext> options):base(options)
     { 
     }
-
+    public DbSet<Product> Products => Set<Product>();
+    public DbSet<Category> Categories => Set<Category>();
     protected override void OnModelCreating(ModelBuilder builder)
     {
         base.OnModelCreating(builder);
